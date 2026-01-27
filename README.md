@@ -53,19 +53,19 @@ Once the application starts successfully, access:
 
 ## 4. Output Screenshots
 ### Swagger UI
-![Swagger UI](screenshots/swagger-ui.png)
+![Swagger UI](library/screenshots/swagger-ui.png)
 
 ### Add Book – POST /books
-![Add Book](screenshots/post-book.png)
+![Add Book](library/screenshots/post-book.png)
 
 ### Get Book by ID – GET /books/{id}
-![Get Book](screenshots/get-book-by-id.png)
+![Get Book](library/screenshots/get-book-by-id.png)
 
 ### Search Book by Year – GET /books/search
-![Search Book](screenshots/search-book-by-year.png)
+![Search Book](library/screenshots/search-book-by-year.png)
 
 ### Delete Book – DELETE /books/{id}
-![Delete Book](screenshots/delete-book.png)
+![Delete Book](library/screenshots/delete-book.png)
 
 ---
 ## 5. Future Improvements
