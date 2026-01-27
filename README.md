@@ -52,24 +52,22 @@ Once the application starts successfully, access:
 ---
 
 ## 4. Output Screenshots
-
-> 📸 *Add screenshots here to prove the API works*
-
-* Swagger UI showing all endpoints
-* Successful POST `/books` request
-* Successful GET `/books/{id}` response
-* Successful GET `/books/search?year=2024` response
-* Successful DELETE `/books/{id}` response
-
-Example Markdown format:
-
-```md
+### Swagger UI
 ![Swagger UI](screenshots/swagger-ui.png)
-![POST Book](screenshots/post-book.png)
-```
+
+### Add Book – POST /books
+![Add Book](screenshots/post-book.png)
+
+### Get Book by ID – GET /books/{id}
+![Get Book](screenshots/get-book-by-id.png)
+
+### Search Book by Year – GET /books/search
+![Search Book](screenshots/search-book-by-year.png)
+
+### Delete Book – DELETE /books/{id}
+![Delete Book](screenshots/delete-book.png)
 
 ---
-
 ## 5. Future Improvements
 
 If I had **2 more days**, I would:
