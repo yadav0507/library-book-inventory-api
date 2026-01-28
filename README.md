@@ -78,4 +78,6 @@ If I had **2 more days**, I would:
 
 ---
 
-✅ This project is designed to be simple, clean, and extensible while demonstrating strong backend fundamentals.
+               This project is designed to be simple, clean, and extensible while demonstrating strong backend fundamentals.
+
+---
